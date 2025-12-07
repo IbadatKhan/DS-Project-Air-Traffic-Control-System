@@ -23,14 +23,5 @@ SkyNet Radar is a high-performance simulation of an Air Traffic Control system.
 - **Purpose:** Managing emergency landing requests.
 - **Logic:** Ensures the flight with the highest emergency status (lowest integer value) is processed first.
 
-## 📸 Screenshots
-![Collision Handling Demo](screenshots/collision_demo.png)
-*(Replace this text with your actual screenshot filename showing the collision logic)*
 
-![Shortest Path Demo](screenshots/path_demo.png)
-*(Replace this text with your actual screenshot filename showing Dijkstra)*
 
-## 🛠️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR-USERNAME/SkyNet-Radar.git](https://github.com/YOUR-USERNAME/SkyNet-Radar.git)
